@@ -166,3 +166,5 @@ did not do any resource profiling and I was strictly looking at the real time
 to see how long each iteration took. I was extremely surprised by the time in
 which it took python to count all the way up to a billion, while the other languages
 took less than a second in most cases.
+
+Thanks for following along! The full source code can be found
