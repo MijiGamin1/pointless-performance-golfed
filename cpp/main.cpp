@@ -1,9 +1,6 @@
-int main(int argc, char* argv[])
-{
+int main(int argc, char* argv[]) {
     int counter = 0;
-    int max_counter = 1000000000;
-
-    while (counter < max_counter) {
+    while (counter < 1000000) {
         counter++;
     }
     return 0;
