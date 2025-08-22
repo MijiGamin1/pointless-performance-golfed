@@ -1,6 +1,5 @@
-
 counter = 0
-max_counter = 1000000000
-
-while counter < max_counter:
+while True:
     counter+=1
+    if counter == 1000000000:
+        break
